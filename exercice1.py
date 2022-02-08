@@ -1,5 +1,3 @@
-
-
 list_alphabet = [
     "a", "b", "c","d"
     ,"e","f","g", "h", "i"
